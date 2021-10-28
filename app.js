@@ -1,4 +1,3 @@
-import validator from 'validator';
 import chalk from 'chalk';
 import yargs from 'yargs';
 //have blue chalk for actions performed
